@@ -1,7 +1,7 @@
 var btnPage = document.getElementById("btn-page");
 
 const greenColor ="#237ACC";
-const whiteColor="#800080"
+const whiteColor="#9F52DF"
 const pinkColor = "#3A8D3A";
 
 const listElementGreen = document.getElementsByClassName("green");
