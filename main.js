@@ -67,7 +67,7 @@ function getColorsFromCategory(colorName) {
     case "lightYellow":
       return lightYellowColor;
     default:
-      return "#0D3BD1";
+      return "#9F52DF";
   }
 }
 
